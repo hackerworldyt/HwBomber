@@ -7,7 +7,7 @@ revenge on somebody, it's made only for fair usage**
 **This script is on it's Beta stage right now.<br>
 Currently only Indian Mobile nos. are supported.**
 
-[![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/MrRizoel/Spambot/fork)
+[![Forks](https://img.shields.io/github/forks/hackerworldyt/HwBomber?style=flat-square&color=orange)](https://github.com/hackerworldyt/HwBomber/fork)
 
 ## 💣 Features
 - Over 20 integrated messaging and calling APIs included within the Script
