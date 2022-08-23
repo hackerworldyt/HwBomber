@@ -32,7 +32,6 @@ chmod +x HwBomber.sh
 ```
 ./HwBomber
 ```
-```
 
 ## 📞 Contacts
 For Queries: 
