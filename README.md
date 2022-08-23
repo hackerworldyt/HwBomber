@@ -18,8 +18,12 @@ Currently only Indian Mobile nos. are supported.**
 
 ```
 apt install python3 curl git -y
-git clone https://github.com/utsanjan/Tsunami-Bomber
-cd Tsunami-Bomber
-chmod +x Tsunami.sh
-./Tsunami.sh
+```
+git clone https://github.com/hackerworldyt/HwBomber
+```
+cd HwBomber
+```
+chmod +x HwBomber.sh
+```
+./HwBomber
 ```
