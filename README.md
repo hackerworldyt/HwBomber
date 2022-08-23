@@ -38,6 +38,8 @@ chmod +x HwBomber.sh
 ./HwBomber.sh
 Enter the Victim's Phone No.: +91 "ENTER_10_DIGIT_NUMBER_HERE"
 Now enter the SMS count: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
+```
+```
 
 ## 📞 Contacts
 For Queries: [My Instagram Profile](https://www.instagram.com/hackerworldyt/)  <br>
