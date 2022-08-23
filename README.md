@@ -22,9 +22,13 @@ apt install python3 curl git -y
 ```
 git clone https://github.com/hackerworldyt/HwBomber
 ```
+```
 cd HwBomber
+```
 ```
 chmod +x HwBomber.sh
 ```
+```
 ./HwBomber
+```
 ```
