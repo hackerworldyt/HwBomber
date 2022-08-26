@@ -33,7 +33,7 @@ chmod +x HwBomber.sh
 
 ## 📞 Contacts
 For Queries: 
-[Instagram](https://www.instagram.com/hackerworldyt/)  <br>
+[Instagram](https://www.instagram.com/hacker_worldyt/)  <br>
 [Telegram](https://t.me/GoToHell_xD) <br>
 
 ## ✒️ Credits 
