@@ -19,6 +19,9 @@ Currently only Indian Mobile nos. are supported.**
 apt install python3 curl git -y
 ```
 ```
+pkg install wget
+```
+```
 git clone https://github.com/hackerworldyt/HwBomber
 ```
 ```
