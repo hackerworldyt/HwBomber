@@ -12,8 +12,6 @@ Currently only Indian Mobile are supported.**
 - Unlimited and super-fast bombing with support for abuse protection in it
 - Actively supports Indian mobile numbers and will get updates & bug-fixes
 - Made for free usage, in case of any query feel free to contact with me at telegram @GoTo_HellxD
-
-## Support
 - Support Termux, Linux, Windows
 
 ## Commands
