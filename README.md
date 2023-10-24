@@ -13,7 +13,7 @@ Currently only Indian Mobile are supported.**
 - Actively supports Indian mobile numbers and will get updates & bug-fixes
 - Made for free usage, in case of any query feel free to contact with me at telegram @GoTo_HellxD
 
-## 🎯 Commands
+## Commands
 ```
 pkg install python -y
 ```
@@ -32,7 +32,7 @@ bash HwBomber.sh
 ## 📞 Contacts
 For Queries: 
 [Telegram Channel](https://t.me/MinatoEsp)  <br>
-[Telegram](https://t.me/GoTo_HellxD) <br>
+[Owner Telegram](https://t.me/GoTo_HellxD) <br>
 
 ##  Credits 
 ### [HACKER WORLD](https://github.com/hackerworldyt/HwBomber)<br>
