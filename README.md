@@ -16,13 +16,13 @@ Currently only Indian Mobile are supported.**
 
 ## Commands
 ```
-pkg install python -y
-```
-```
-pkg install wget
+pkg install git -y
 ```
 ```
 git clone https://github.com/hackerworldyt/HwBomber
+```
+```
+bash requirements.sh
 ```
 ```
 cd HwBomber
