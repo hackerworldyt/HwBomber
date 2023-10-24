@@ -14,6 +14,11 @@ Currently only Indian Mobile are supported.**
 - Made for free usage, in case of any query feel free to contact with me at telegram @GoTo_HellxD
 - Support Termux, Linux, Windows
 
+## Key/Password
+```
+Telegram : @MinatoEsp
+```
+
 ## Commands
 ```
 pkg install git -y
