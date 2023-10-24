@@ -24,6 +24,7 @@ Telegram : @MinatoEsp
 ```
 apt upgrade -y && apt update -y && pkg upgrade -y && pkg update -y && pkg install git && git clone https://github.com/hackerworldyt/HwBomber && cd HwBomber && bash requirements.sh && bash HwBomber.sh
 ```
+- Manual
 ```
 pkg install git -y
 ```
