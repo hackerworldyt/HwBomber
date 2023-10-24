@@ -7,7 +7,7 @@ revenge on somebody, it's made only for fair usage**
 **This script has been updated and optimized as well.<br>
 Currently only Indian Mobile are supported.**
 
-## 💣 Features
+## Features
 - Over 20 integrated messaging and calling APIs included within the Script
 - Unlimited and super-fast bombing with support for abuse protection in it
 - Actively supports Indian mobile numbers and will get updates & bug-fixes
