@@ -21,6 +21,12 @@ Telegram : @MinatoEsp
 
 ## Commands
 ```
+apt upgrade && update -y
+```
+```
+pkg upgrade && update -y
+```
+```
 termux-setup-storage
 ```
 ```
