@@ -16,7 +16,7 @@ Currently only Indian Mobile are supported.**
 
 ## Key/Password
 ```
-Telegram : @MinatoEsp
+@MinatoEsp
 ```
 
 ## Commands
@@ -36,10 +36,10 @@ pkg install git -y
 git clone https://github.com/hackerworldyt/HwBomber
 ```
 ```
-bash requirements.sh
-```
-```
 cd HwBomber
+```
+```
+bash requirements.sh
 ```
 ```
 bash HwBomber.sh
